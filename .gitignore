@@ -1,0 +1,4 @@
+pam_winddown.o
+pam_winddown.so
+test_pam
+test_pam.o
